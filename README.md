@@ -38,16 +38,6 @@ Tasks completed:
 - Identified available IP and MAC address information.
 - Generated and saved a network topology diagram in PDF format.
 
-<img width="390" height="469" alt="ipconfig" src="https://github.com/user-attachments/assets/3f7013ff-a3c4-4291-8ec6-87f4b3b1a6bc" />
-
-<img width="517" height="230" alt="MAC addresses" src="https://github.com/user-attachments/assets/853a392e-189c-4f7b-8bd5-ae31a24f7f20" />
-
-<img width="960" height="540" alt="pingoutput" src="https://github.com/user-attachments/assets/40328c3e-626d-4686-bbda-e1271361a68a" />
-
-<img width="182" height="254" alt="topology" src="https://github.com/user-attachments/assets/fda1a93c-60cc-491c-8731-6919bd43a531" />
-
-[Network_Topology.pdf.pdf](https://github.com/user-attachments/files/34900946/Network_Topology.pdf.pdf)
-
 
 ## Tools and Technologies
 
